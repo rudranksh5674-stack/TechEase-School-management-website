@@ -1,5 +1,6 @@
 
 
+
 {
   "id": "./",
   "name": "TeachEase - School Management",
@@ -12,6 +13,12 @@
   "background_color": "#f5f7fb",
   "theme_color": "#5b55e7",
   "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
     {
       "src": "./icon-192.png",
       "sizes": "192x192",
@@ -26,3 +33,4 @@
     }
   ]
 }
+
