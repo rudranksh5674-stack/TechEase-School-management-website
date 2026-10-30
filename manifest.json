@@ -1,22 +1,14 @@
 
-
 {
   "name": "TeachEase - School Management",
   "short_name": "TeachEase",
-  "description": "Student records and attendance management.",
-  "start_url": "./index.html",
+  "description": "Student records, attendance management and reports for teachers.",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f5f7fb",
   "theme_color": "#5b55e7",
- "icons": [
-  {
-    "src": "icon.svg",
-    "sizes": "any",
-    "type": "image/svg+xml",
-    "purpose": "any"
-  }
-] [
+  "icons": [
     {
       "src": "./icon.svg",
       "sizes": "any",
@@ -25,5 +17,6 @@
     }
   ]
 }
+
 
 
